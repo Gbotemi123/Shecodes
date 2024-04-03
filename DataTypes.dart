@@ -8,7 +8,7 @@ void main() {
   print('Height: $height meters');
 
   // String data type
-  String name = 'John';
+  String name = 'Oluwagbotemi';
   print('Name: $name');
 
   // List data type (list of integers)
@@ -17,7 +17,7 @@ void main() {
 
   // Map data type (map of student details)
   Map<String, dynamic> student = {
-    'name': 'Alice',
+    'name': 'Alex',
     'age': 22,
     'grades': {'math': 90, 'science': 85, 'history': 88}
   };
